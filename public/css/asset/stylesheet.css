@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'keralalite';
+    src: url('keralite-webfont.eot');
+    src: url('keralite-webfont.eot?#iefix') format('embedded-opentype'),
+         url('keralite-webfont.woff2') format('woff2'),
+         url('keralite-webfont.woff') format('woff'),
+         url('keralite-webfont.ttf') format('truetype'),
+         url('keralite-webfont.svg#keralalite') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
