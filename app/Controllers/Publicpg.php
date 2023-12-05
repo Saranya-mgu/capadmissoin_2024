@@ -21,10 +21,10 @@ class Publicpg extends BaseController
 
 
 
-        $data['siteKey'] = '6Lcj_QkpAAAAABHxpncKLYVNVULpDeIDoBGn0DX6';
+        $data['siteKey'] = '';
 
         if ($this->request->getPost()) {
-            $secretKey = '6Lcj_QkpAAAAAIuL20DK36kBG3GEWnKkrgPYHL6u';
+            $secretKey = '';
 
             $credential = array(
                 'secret' => $secretKey,
